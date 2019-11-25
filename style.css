@@ -1,0 +1,56 @@
+.footer {
+  font-size: small;
+  color: gray;
+}
+
+body {
+  text-align: center;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.advantage {
+  background-color: green;
+  color: white;
+}
+
+.disadvantage {
+  background-color: red;
+}
+
+.neutral {
+  background-color: tan;
+}
+
+.medium {
+  font-size: x-large;
+}
+
+.prefer {
+  font-size: xx-large;
+}
+
+h1 {
+  padding-top: 90px;
+  padding-bottom: 50px;
+}
+
+.contributors {
+  font-size: x-large;
+  padding-top: 40px;
+}
+
+.multiline {
+  white-space: pre-wrap;
+}
