@@ -20,6 +20,11 @@ td {
   border: 1px solid black;
 }
 
+.principle {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
 .advantage {
   background-color: green;
   color: white;
